@@ -1,5 +1,4 @@
 === ProfilePress - WordPress Multisite Integration ===
-Contributors: Collizo4sky
 Tags: multisite, wpmu, mu
 Requires at least: 4.0
 Tested up to: 4.7.1
